@@ -339,6 +339,16 @@ ul {
     font-size: 1.5rem;
   }
 }
-.next-slide {
+/* .next-slide {
   transform: translateX(100%);
+} */
+
+/* ===============
+Slick Carousel CSS 
+==================*/
+.slick-container {
+  margin: 0 auto;
+  margin-top: 10rem;
+  width: 80vw;
+  max-width: 800px;
 }
